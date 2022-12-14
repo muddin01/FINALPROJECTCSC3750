@@ -143,6 +143,14 @@
     <ClCompile Include="ConsoleApplication1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Aang.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\FinalBattle.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Katara.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\main.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Sokka.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Toph.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\trial.css" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Zuko.html" />
     <None Include="HTMLPage.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>

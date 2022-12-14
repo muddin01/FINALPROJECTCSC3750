@@ -22,5 +22,13 @@
   <ItemGroup>
     <None Include="HTMLPage.htm" />
     <None Include="StyleSheet.css" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\main.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Aang.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Sokka.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Katara.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Zuko.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\Toph.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\FinalBattle.html" />
+    <None Include="..\..\..\..\OneDrive - Wayne State University\CSC 3750 final project\trial.css" />
   </ItemGroup>
 </Project>
